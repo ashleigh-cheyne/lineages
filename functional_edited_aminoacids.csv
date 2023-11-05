@@ -1,0 +1,45 @@
+,x,Category,Notes
+2-methylcitratecycleI,10,2-methylcitrate cycle I,NA
+adenosylcobalaminbiosynthesisII(aerobic),8,cobalamin biosynthesis,Vitamin B12
+aerobicrespirationI(cytochromec),1,aerobic respiration I (cytochrome c),NA
+aminoimidazoleribonucleotidebiosynthesis,1,purine nucleotide biosynthesis,NA
+androstenedionedegradation,6,fatty acid and lipid degradation,steroid degradation
+biotin-carboxylcarrierproteinassembly,1,fatty acid and lipid biosynthesis,NA
+CDP-diacylglycerolbiosynthesis,12,fatty acid and lipid biosynthesis,phospholipid biosynthesis
+cholesteroldegradation,13,cholesterol degradation,NA
+ethanoldegradationI,1,ethanol degradation I,NA
+ethanoldegradationII,2,ethanol degradation II,NA
+fattyacid&beta;-oxidationI,13,fatty acid and lipid degradation,fatty acid degradation
+fattyacidbiosynthesisinitiationI,6,fatty acid and lipid biosynthesis,fatty acid biosynthesis
+fattyacidelongation--saturated,1,fatty acid and lipid biosynthesis,fatty acid biosynthesis
+glycogenbiosynthesisIII(from&alpha;-maltose1-phosphate),4,glycogen biosynthesis III (from & alpha;-maltose1-phosphate),NA
+glyoxylatecycle,1,glyoxylate cycle,NA
+isoleucinebiosynthesis,7,isoleucine biosynthesis,NA
+L-argininebiosynthesis,2,L-arginine biosynthesis,
+L-glutaminedegradationI,4,L-glutamine degradation I,
+L-methioninebiosynthesis,1,L-methionine biosynthesis,
+L-serinebiosynthesisI,7,L-serine biosynthesis I,
+L-tryptophanbiosynthesis,1,L-tryptophan biosynthesis,
+L-valinedegradationI,4,L-valine degradation I,
+mixedacidfermentation,5,fermentation to short-chain fatty acids,NA
+mycolatebiosynthesis,13,fatty acid and lipid biosynthesis,fatty acid biosynthesis
+mycolyl-arabinogalactan-peptidoglycancomplexbiosynthesis,2,cell wall biosynthesis,NA
+NADHtocytochrome_bd_oxidaseelectrontransfer,4,aerobic respiration,electron transport chain
+octaneoxidation,10,octaneoxidation,NA
+palmitatebiosynthesisII(bacteriaandplants),10,fatty acid and lipid biosynthesis,fatty acid biosynthesis
+pentosephosphatepathway,4,pentosephosphate pathway,NA
+peptidoglycanbiosynthesisIII(mycobacteria),2,cell wall biosynthesis,peptidoglycan biosynthesis
+phenolphthiocerolbiosynthesis,6,fatty acid and lipid biosynthesis,NA
+phosphatidylglycerolbiosynthesis,12,fatty acid and lipid biosynthesis,phospholipid biosynthesis
+phospholipases,1,fatty acid and lipid degradation,NA
+phthiocerolbiosynthesis,7,fatty acid and lipid biosynthesis,NA
+propanoylCoAdegradationI,1,propanoyl CoA degradation I,NA
+pyrimidinedeoxyribonucleotides_denovo_biosynthesis,9,nucleoside and nucleotide biosynthesis,deoxyribonucleotide biosynthesis
+serineandglycinebiosynthesis,13,serine and glycine biosynthesis,NA
+stearatebiosynthesisII(bacteriaandplants),10,fatty acid and lipid biosynthesis,fatty acid biosynthesis
+superpathwayofguanosinenucleotides_denovo_biosynthesis,7,nucleoside and nucleotide biosynthesis,purine nucleotide biosynthesis
+superpathwayofmycolyl-arabinogalactan-peptidoglycancomplexbiosynthesis,4,cell wall biosynthesis,NA
+superpathwayofsulfateassimilationandcysteinebiosynthesis,7,superpathway of sulfate assimilation and cysteine biosynthesis,NA
+TCAcycleV(2-oxoglutarate:ferredoxinoxidoreductase),7,TCA cycle V (2-oxoglutarate: ferredoxin oxidoreductase),NA
+trehalosebiosynthesis,3,trehalose biosynthesis,NA
+tRNAcharging,9,tRNA charging,NA
